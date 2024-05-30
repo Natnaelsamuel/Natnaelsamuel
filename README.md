@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Natnael Samuel</h1>
-<h3 align="center">A second year computer science student at Hawassa university.</h3>
-<img align='right' alt='coding' width='400' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFkZ3IzbnBkcmxpbXp6aWsyemRiZXQ2a3BpdW42NmFmenV3aG4xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4527NkUK98k5w4MOBY/giphy.webp">
+<h3 align="center">A passionate learner.</h3>
+<img align='right' alt='coding' width='400' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk0eXYzYjl5YXU1OHJwYzhpaTdhZXdpbGd0a2ZpazQ4NGEzYmVhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaelsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="natnaelsamuel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
+
+- 💬 Ask me about **A second year computer science student at Hawassa university.**
 
 - 📫 How to reach me **natisami907@gmail.com**
 
@@ -20,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaelsamuel&show_icons=true&locale=en&layout=compact" alt="natnaelsamuel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaelsamuel&show_icons=true&locale=en" alt="natnaelsamuel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelsamuel&" alt="natnaelsamuel" /></p>
