@@ -7,7 +7,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Back-End**
 
 - 💬 Ask me about **A third year computer science student at Hawassa university.**
 
