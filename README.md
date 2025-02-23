@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back-End**
 
-- 💬 Ask me about **A third year computer science student at Hawassa university.**
+- 💬I am **A third year computer science student at Hawassa university.**
 
 - 📫 How to reach me **natisami907@gmail.com**
 
