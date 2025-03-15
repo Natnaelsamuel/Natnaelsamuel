@@ -1,39 +1,21 @@
 <h1 align="center">Hi 👋, I'm Natnael Samuel</h1>
 <h3 align="center">A Front-end Developer | UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaelsamuel&label=Profile%20views&color=0e75b6&style=flat" alt="natnaelsamuel" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on My Portfolio<br>👯 I’m looking to collaborate on React and Node <br>🌱 I’m currently learning Backend<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: I am a 'musicoholic'
 
-<p align="left"> <a href="https://twitter.com/natnael_sam" target="blank"><img src="https://img.shields.io/twitter/follow/natnael_sam?logo=twitter&style=for-the-badge" alt="natnael_sam" /></a> </p>
 
-<hr>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nat_t_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NatnaelSamuel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:natisami901@gmail.com) 
 
-- 🌱 I’m currently learning **Back-End**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NatnaelSamuel&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NatnaelSamuel&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatnaelSamuel&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬I am **A third year computer science student at Hawassa university.**
+---
+[![](https://visitcount.itsvg.in/api?id=NatnaelSamuel&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **natisami907@gmail.com**
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/natnael_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="natnael_sam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/natnael-samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-samuel" height="30" width="40" /></a>
-<a href="https://instagram.com/nat_t_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nat_t_x" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/natnaelsamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="natnaelsamuel" height="30" width="40" /></a>
-</p>
-
-<hr>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaelsamuel&show_icons=true&locale=en&layout=compact" alt="natnaelsamuel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaelsamuel&show_icons=true&locale=en" alt="natnaelsamuel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelsamuel&" alt="natnaelsamuel" /></p>
-
-<img align="center" alt="coding" src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
