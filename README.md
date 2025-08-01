@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natnael Samuel</h1>
-<h3 align="center">A Front-end Developer | UI/UX Designer</h3>
+<h3 align="center">A Full-Stack Developer | UI/UX Designer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio<br>👯 I’m looking to collaborate on React and Node <br>🌱 I’m currently learning Backend<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: I am a 'musicoholic'
