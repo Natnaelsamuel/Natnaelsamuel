@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Natnael Samuel</h1>
-<h3 align="center">A Full-Stack Developer | UI/UX Designer</h3>
+<hr style="border: none; border-top: 1px solid #9D7CD8; margin: 10px 0;" />
+
+<p align="center">
+  <a href="https://github.com/Natnaelsamuel">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=Hi,+I'm+Natnael+Samuel;Full-Stack+Developer;UI/UX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
+<hr style="border: none; border-top: 1px solid #9D7CD8; margin: 10px 0;" />
 
 # 💫 About Me:
 🔭 I’m currently working on FIGA LLC Website<br>👯 I’m looking to collaborate on Next js<br>🤝 I’m looking for help<br>🌱 I’m currently learning with Django and React Native<br>💬 Ask me about Anything<br>⚡ Fun fact - "I am a Musicoholic"
